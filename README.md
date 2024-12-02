@@ -1,2 +1,2 @@
 # Js
-Learning new stuff
+Javascript
